@@ -1,0 +1,56 @@
+* {border: 1px dotted red;}
+
+body {
+	text-align: center;
+}
+
+header {
+	background-image: url(http://upload.wikimedia.org/wikipedia/commons/c/c5/Roasted_coffee_beans.jpg);
+	height: 250px;
+
+}
+
+h1 {
+	color:#ffffff;
+	text-align: center;
+}
+
+h2 {
+	color: #000000;
+}
+
+#Organic {
+	height: 400px;
+	max-width: 85ex;
+	margin: 0 auto;
+}
+
+.left { 
+	width: 40ex;
+	float: left;
+	padding: 5px;
+
+}
+
+.right {
+	width: 40ex;
+	float: left;
+	padding: 5px;
+}
+
+footer {
+	clear: both;
+}
+
+ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	background-color: #000000;
+}
+
+li {
+	display:inline-block;
+	width:60px;
+	color: #ffffff;
+}
